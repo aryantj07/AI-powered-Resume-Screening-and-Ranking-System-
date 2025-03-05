@@ -29,20 +29,11 @@ This project is an AI-powered system that automates resume screening by extracti
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/AI-Resume-Screening.git
 cd AI-Resume-Screening
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run the Application
-bash
-Copy
-Edit
 streamlit run app.py
 
 📸 Screenshots
